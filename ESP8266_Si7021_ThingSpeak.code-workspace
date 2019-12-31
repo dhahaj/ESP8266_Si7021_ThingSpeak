@@ -1,0 +1,20 @@
+{
+    "folders": [
+        {
+            "path": "file:///c%3A/Users/dmh/Documents/Arduino"
+        }
+    ],
+    "settings": {
+        "cpp.buildConfigurations": [
+            {
+                "name": "",
+                "directory": ""
+            },
+            {
+                "name": "",
+                "directory": ""
+            }
+      ],
+      "workspace.supportMultiRootWorkspace": false
+    }
+}
